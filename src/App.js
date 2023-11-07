@@ -9,7 +9,7 @@ function App() {
   const [income, setIncome] = useState('');
   const [selectedProvince, setProvince] = useState('');
   const taxRates = [
-    // ... your tax rates data
+   
   ];
 
   const [results, setResults] = useState({
